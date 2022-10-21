@@ -23,9 +23,9 @@ O(n^2)
 -> worst case= O(n^2)
 
 4-) n(18)=5'tir.
-1<5<6 ara değer olduğundan average case'e girer.
+1<=5<=6 ara değer olduğundan average case'e girer.
 
-->[7,3,5,8,2,9,4,15,6]
+->[7,3,5,8,2,9,4,15,6] dizisinin insertion sort'a göre ilk 4 adımı;
 
 [2,3,5,8,7,9,4,15,6]
 [2,3,5,8,7,9,4,15,6]
